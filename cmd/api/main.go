@@ -10,7 +10,7 @@
 // @license.name Apache 2.0
 // @license.url http://www.apache.org/licenses/LICENSE-2.0.html
 
-// @host http://go-backend-render-api.onrender.com
+// @host render-go-backend-api.onrender.com
 // @BasePath /api/v1
 // @securityDefinitions.apikey BearerAuth
 // @in header
